@@ -1,5 +1,6 @@
 # vendas
 Projeto JavaScript, Bootstrap, PHP, AJAX, MySql, PDO
+<br>
 <br> Imagens do projeto versão simplificada
 ![Captura de tela de 2022-09-04 12-02-15](https://user-images.githubusercontent.com/53438357/188322869-77e00516-0aa4-4d69-aba7-4fd00e677166.png)
 ![Captura de tela de 2022-09-04 12-02-51](https://user-images.githubusercontent.com/53438357/188322880-c5313cb5-d04d-44c6-bb0f-7b90ce1d91ca.png)
